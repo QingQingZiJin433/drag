@@ -4,5 +4,6 @@ function drag(id) {
   var disY = 0
   obj.onmousedown = function () {  
     var teset = window
+    console.log(222)
   }
 }
